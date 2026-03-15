@@ -163,12 +163,12 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
-
+![alt text](<Screenshot 2026-03-15 231633.png>)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
-
+![alt text](<Screenshot 2026-03-15 232116.png>)
 
 
 ## RESULT
+A convolutional autoencoder model was successfully developed for image denoising applications. The model effectively learned to extract important features and remove noise from input images. Through the encoding and decoding process, the network reconstructed cleaner versions of the noisy images. The results demonstrate that the model performs well for image restoration tasks in Deep Learning and image processing.
