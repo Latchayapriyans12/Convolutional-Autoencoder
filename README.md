@@ -5,6 +5,8 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
+Build a Convolutional Autoencoder using PyTorch to remove noise from handwritten digit images in the MNIST dataset. The goal is to train the model to learn how to recover clean images from their noisy
+
 
 
 ## DESIGN STEPS
